@@ -6,7 +6,7 @@
 Summary:	Convert your SVG files to PDF and PNG
 Name:		python3-%{module}
 Version:	2.5.2
-Release:	3
+Release:	4
 License:	LGPLv3+
 Group:		Libraries/Python
 Source0:	https://github.com/Kozea/CairoSVG/archive/%{version}/%{name}-%{version}.tar.gz
